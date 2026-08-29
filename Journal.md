@@ -48,6 +48,18 @@ By the way, I also added silkscreen on the back side of the PCB (the straw hat c
 <img width="950" height="358" alt="Screenshot 2026-08-29 at 12 30 21 AM" src="https://github.com/user-attachments/assets/0ae50051-80a0-431b-8f09-635464c89dc0" />
 
 
+# Second entry ~3Hr (29/08/2026)
+[lapse](https://lapse.hackclub.com/timelapse/2HBeWfwCYcLp)
+After completing the PCB, I exported the step file and imported it in fusion 360.
+I don't know there was some lines with the PCB, but it took a while to get uploaded because it was kind of huge.
+Then I started designing the case around it. It is an integrated plate case with the bottom panel and the whole plate upper part. I also imported a DXF file of the custom PCB layout to cut out the key holes for the plate and then cut out the holes for encoder  and the cap touch pad.
+
+There was a time in between where I forgot to turn on my laps while I was placing my keycaps. It took a long time because placing them individually was really really hard. 
+Here is the keyboard.
+
+<img width="2880" height="1226" alt="2" src="https://github.com/user-attachments/assets/3b2db613-09e8-4fce-8718-e1d98891d90b" />
+
+
 
 
 
