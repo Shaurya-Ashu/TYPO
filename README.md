@@ -1,5 +1,5 @@
 # TYPO
-It is a 80% keyboard counting 79 keys 1 rotary encoder and a custom touchpad button all together is powered by an raspberry pi pico .
+It is a 80% keyboard containing 79 keys 1 rotary encoder and a custom touchpad button all together is powered by a raspberry pi pico .
 
 <img width="2880" height="1226" alt="2" src="https://github.com/user-attachments/assets/3544319e-505c-4c3b-9314-3b0f2e6f408c" />
 
