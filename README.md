@@ -3,6 +3,12 @@ It is a 80% keyboard containing 79 keys 1 rotary encoder and a custom touchpad b
 
 <img width="2880" height="1226" alt="2" src="https://github.com/user-attachments/assets/3544319e-505c-4c3b-9314-3b0f2e6f408c" />
 
+# Schematics 
+In KiCad 
+
+<img width="1059" height="731" alt="Screenshot 2026-11-05 at 4 35 10 AM" src="https://github.com/user-attachments/assets/58adcb69-0c2a-4c5e-83a4-d8fb74161114" />
+
+
 # PCB 
 It's a 2 layer simple pcb designed in KiCad .
 
