@@ -1,3 +1,7 @@
+<!-- boardrepo-badge:v1 -->
+[![View on BoardRepo](https://boardrepo.com/badge/github.svg?v=2)](https://boardrepo.com/b/e65e9f57-d907-4b88-b8e5-9ee1c8c1d13d?ref=github-readme)
+<!-- /boardrepo-badge:v1 -->
+
 # TYPO
 It is a 80% keyboard containing 79 keys 1 rotary encoder and a custom touchpad button all together is powered by a raspberry pi pico .
 
